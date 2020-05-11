@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="50" viewBox="0 0 96 50">
+  <g id="Option" transform="translate(276.5 -272.5)">
+    <line id="Line_11" data-name="Line 11" x2="71" transform="translate(-276.5 283.5)" fill="none" stroke="#707070" stroke-width="3"/>
+    <line id="Line_17" data-name="Line 17" x1="71" transform="translate(-251.5 311.5)" fill="none" stroke="#707070" stroke-width="3"/>
+    <line id="Line_15" data-name="Line 15" x2="18" transform="translate(-198.5 283.5)" fill="none" stroke="#707070" stroke-width="3"/>
+    <line id="Line_18" data-name="Line 18" x1="18" transform="translate(-276.5 311.5)" fill="none" stroke="#707070" stroke-width="3"/>
+    <line id="Line_13" data-name="Line 13" y2="22" transform="translate(-205.5 272.5)" fill="none" stroke="#707070" stroke-width="3"/>
+    <line id="Line_16" data-name="Line 16" y1="22" transform="translate(-251.5 300.5)" fill="none" stroke="#707070" stroke-width="3"/>
+  </g>
+</svg>
